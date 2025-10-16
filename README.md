@@ -1,2 +1,2 @@
-# Moje-piersze-repozytorium-devops
+# Moje-pierwsze-repozytorium-DevOps
 Repozytorium na pierwsze zajęcia
